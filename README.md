@@ -32,3 +32,6 @@ Solhint supports configuration files (solhint.json or .solhintrc) in your projec
 ## Checklist
 - https://solodit.xyz/auth?next=/checklist
 - https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/
+
+## More
+- https://bytes032.xyz/
