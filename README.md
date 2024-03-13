@@ -28,3 +28,7 @@ solhint YourContract.sol
 This command will output a list of warnings and errors found in "YourContract.sol", according to the active Solhint rules.
 
 Solhint supports configuration files (solhint.json or .solhintrc) in your project directory, allowing you to specify which rules to apply or ignore, making it a versatile tool tailored to various coding standards and practices in Solidity development.
+
+## Checklist
+- https://solodit.xyz/auth?next=/checklist
+- https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/
