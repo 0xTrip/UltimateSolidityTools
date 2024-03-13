@@ -8,6 +8,8 @@
 
 ## Linter
 
+- Ethlint
+- Solidity template
 - Solhint
 security and style guide validations for Solidity code. It helps developers to follow best practices and avoid errors in their smart contract code by analyzing it for potential issues.
 
